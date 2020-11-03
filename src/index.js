@@ -15,5 +15,5 @@ ReactDOM.render((
     <Selection />
     <App />
     <Footer />
-    </BrowserRouter>
+  </BrowserRouter>
 ), document.getElementById('root'));
